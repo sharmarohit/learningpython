@@ -1,2 +1,2 @@
 # learningpython
-fun learning pythin
+fun learning python
